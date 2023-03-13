@@ -1,7 +1,7 @@
 {
   "name": "LINE Bot Chat Summarizer by ChatGPT",
   "description": "Using ChatGPT API to auto summarize your Group Chat",
-  "repository": "https://github.com/kkdai/LINE-Bot-ChatSummarizer",
+  "repository": "https://github.com/Xanonymous-GitHub/LINE-Bot-ChatSummarizer",
   "keywords": [
     "Line",
     "go",
